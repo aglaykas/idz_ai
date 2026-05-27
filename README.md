@@ -2,10 +2,6 @@
 
 > **Классическое машинное обучение** для персонализированных рекомендаций мест для путешествий на основе оценок, бюджета и сезона.
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 О проекте
 
@@ -52,6 +48,4 @@
 
 Подробные графики (матрицы ошибок, feature importance, кривые обучения) находятся в Jupyter Notebook `travel_recommendation.ipynb`.
 
----
 
-## 🗂️ Структура репозитория
