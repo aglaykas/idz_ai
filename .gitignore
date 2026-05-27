@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE settings (VS Code, PyCharm)
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Project-specific generated files (сохраняем код, но не данные или модели?)
+*.pkl
+*.csv
+
+# Logs and databases
+*.log
+*.sqlite3
